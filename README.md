@@ -13,7 +13,7 @@ This is a simple public API developed for the HNG12 internship Stage 0 backend t
 - **CORS Handling:** Enabled using `django-cors-headers`
 
 ## API Endpoint
-### **Base URL:** `[your deployed API URL]`
+### **Base URL:** `https://stiff-kamillah-htcode-dae24342.koyeb.app/`
 
 ### **GET /**
 #### **Response Format (200 OK)**
